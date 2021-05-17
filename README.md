@@ -1,2 +1,1 @@
-# Baza-danych-gry-planszowe
-Baza danych do gier planszowych
+"# Baza-danych-sql-gry-planszowe" 
